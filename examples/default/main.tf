@@ -14,6 +14,7 @@ provider "azapi" {}
 module "resource_group" {
   source = "../../"
 
-  location = "westus3"
-  name     = "rg-avm-template-example"
+  location         = "westus3"
+  name             = "rg-avm-template-example"
+  enable_telemetry = false
 }
