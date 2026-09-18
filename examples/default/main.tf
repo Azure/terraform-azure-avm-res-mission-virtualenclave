@@ -16,5 +16,5 @@ module "resource_group" {
 
   location         = "westus3"
   name             = "rg-avm-template-example"
-  enable_telemetry = false
+  enable_telemetry = var.enable_telemetry
 }
