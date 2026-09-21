@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/Azure/azure-verified-modules-tools/main/src/Avm.Authoring/Resources/Schemas/v1/avm-module-metadata.schema.json",
   "moduleDisplayName": "Mission Virtual Enclave",
-  "moduleDescription": "Intended AVM Terraform resource module for Microsoft.Mission/virtualEnclaves.",
+  "moduleDescription": "AVM Terraform resource module for Mission Virtual Enclave.",
   "canonicalType": "Microsoft.Mission/virtualEnclaves",
   "owners": [
     "SvenAelterman"
