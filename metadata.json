@@ -3,6 +3,8 @@
   "moduleDisplayName": "Mission Virtual Enclave",
   "moduleDescription": "Intended AVM Terraform resource module for Microsoft.Mission/virtualEnclaves.",
   "canonicalType": "Microsoft.Mission/virtualEnclaves",
-  "owners": [],
+  "owners": [
+    "SvenAelterman"
+  ],
   "telemetryIdPrefix": "46d3xtrf.res.1c5c81a"
 }
